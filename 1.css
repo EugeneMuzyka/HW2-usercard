@@ -1,0 +1,43 @@
+h1 {
+     color:hsl(194, 100%, 50%); 
+   
+    }
+
+h2  { color: hsl(245, 62%, 34%);
+    font-size: 1em;
+    margin-bottom: 0.5em;
+}
+h3  { color: hsl(245, 62%, 34%);
+    font-size: 0.75em;
+    margin-bottom: 5em;
+}
+h4 {color:#F6F5FB ;
+    border: 3px;
+    font-size:0.875em;
+    background: hsl(245, 62%, 34%);
+    padding:0.6em 1.3em;
+    text-decoration:none;
+    font-family: verdana;
+    border-radius: 0.7em;
+}
+
+
+p {margin-bottom: 2.5em;
+    
+}
+.button {
+    margin: 7.5em;
+    font-size:0.875em;
+}   
+.button a {color: hsl(245, 62%, 100%);
+    text-decoration:none ; 
+    background-color:hsl(245, 62%, 34%) ;
+padding: 1em 3em;
+    border-radius: 2em;
+    border:0.125em solid hsl(64, 90%, 59%);
+    border-top:hsl(11, 90%, 59%);
+    border-bottom: 0.25em solid hsl(165, 90%, 16%);
+}
+.button a:hover {
+        background-color: hsl(132, 62%, 27%);
+}
